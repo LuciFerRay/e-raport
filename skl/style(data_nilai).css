@@ -1,0 +1,91 @@
+.table{
+	border-collapse: collapse;
+}
+ 
+table.table th th , table.table tr td{
+	padding: 10px 20px	;
+	background-color: white;
+}
+form {
+  width: fit-content;
+  height : fit-content;
+  border: 2px solid #ccc;
+  padding: 30px;
+  background: #fff;
+  border-radius: 15px;
+  margin-top : 20px;
+  margin-left : 230px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+input {
+  border: 2px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+label {
+  color: #888;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.input{
+  float: left;
+  background: #22A7F0;
+  padding: 10px 15px;
+  color: #fff;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-right: 10px;
+  border: none;
+}
+.edite{
+  float: center;
+  background: #006400;
+  padding: 10px 15px;
+  color: #fff;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-right: 10px;
+  border: none;
+}
+.delet{
+  float: center;
+  background: #DC143C;
+  padding: 10px 15px;
+  color: #fff;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-right: 10px;
+  border: none;
+}
+
+button:hover{
+  opacity: .7;
+}
+.error {
+   background: #F2DEDE;
+   color: #A94442;
+   padding: 10px;
+   width: 95%;
+   border-radius: 5px;
+   margin: 20px auto;
+}
+
+.success {
+   background: #D4EDDA;
+   color: #40754C;
+   padding: 10px;
+   width: 95%;
+   border-radius: 5px;
+   margin: 20px auto;
+}
+
+a{
+	color : white;
+}

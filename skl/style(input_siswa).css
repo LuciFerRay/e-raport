@@ -1,0 +1,21 @@
+input{
+	display: block;
+    padding: 10px 150px;;
+} 
+
+form   {
+	margin-left :250px
+}
+.submit{
+  float    :right;
+  background: #006400;
+  padding: 10px 15px;
+  color: #fff;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-right: 10px;
+  border: none;
+}
+button:hover{
+  opacity: .7;
+}

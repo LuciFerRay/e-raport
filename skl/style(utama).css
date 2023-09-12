@@ -1,0 +1,27 @@
+
+.container-padding {
+      width: 70%;
+      height: 570px;  
+      box-sizing: border-box;
+      font-family: "Roboto", sans-serif;
+      font-size: 15px;
+      line-height: 20px;
+      margin-left: 34%;
+      padding-bottom: 0.15px;
+      padding-left: 16px;
+      padding-top: 200px;
+      }
+.padding { 
+        text-align: center;
+      }
+.content1 {
+      font-size: 30px; 
+      color: white;
+      padding: 14px;
+}
+
+section{
+      margin-left: -250px;
+      font-size: 40px;
+      align-content: center;
+}
